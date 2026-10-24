@@ -28,6 +28,14 @@ Using Snowflake SQL and Power BI, I analysed 17,520 half-hourly records to ident
 - **Negative prices:** Approximately 83% occurred during high-wind, low-demand conditions.
 - **Price spikes:** All 62 occurred during high-demand, low-wind conditions.
 
+## Business Insights
+
+The analysis suggests that electricity demand and embedded wind generation are important factors associated with short-term wholesale electricity price movements.
+
+Higher prices were generally observed during periods of high demand and low wind generation. In contrast, negative prices were concentrated in low-demand periods, particularly when embedded wind generation was high.
+
+These findings highlight the importance of understanding demand and renewable generation patterns when analysing electricity market behaviour.
+
 ## Dashboard
 
 ![Power BI Dashboard](PowerBI_Dashboard.png)
